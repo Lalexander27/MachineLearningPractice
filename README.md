@@ -5,6 +5,6 @@ Author: Louie Alexander
 
 Title: Random Forest Identifies Important Variables for Predicting Disease
 
-Keywords: Random Forest, Machine Learning, Disease Prediction, Biomarkers
+Keywords: Random Forest, Machine Learning, Disease Prediction, Biomarkers, Cystic Fibrosis
 
 Abstract:
